@@ -28,7 +28,7 @@ body {
 .teks h2 {
   font-size: 32px;
   margin-bottom: 15px;
-  color: #3e2f1c;
+  color: #93673d;
 }
 
 .teks p {
@@ -205,4 +205,5 @@ form button {
 
 form button :hover {
     background-color:#ba8d45dd;
+
 }
